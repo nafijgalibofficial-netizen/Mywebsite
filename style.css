@@ -57,7 +57,7 @@ nav ul li a:hover{
 .hero{
     width:90%;
     max-width:1200px;
-    margin:auto;
+    margin:80px;
     min-height:100vh;
     display:flex;
     justify-content:space-between;
@@ -216,7 +216,7 @@ footer{
     flex-direction:column-reverse;
     justify-content:center;
     text-align:center;
-    padding-top:180px;
+padding: top 200px;
 }
 
 .hero-text h1{
